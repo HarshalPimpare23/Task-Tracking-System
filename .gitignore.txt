@@ -1,16 +1,13 @@
 # Python
 __pycache__/
-*.py[cod]
-*.log
+*.pyc
 
 # Virtual environments
 venv/
 .venv/
-env/
 
-# Environment variables
-.env
-.env.*
+# Databases
+db.sqlite3
 
 # VS Code
 .vscode/
@@ -18,10 +15,3 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Node.js (if website uses Node/React)
-node_modules/
-
-# Build folders
-dist/
-build/
