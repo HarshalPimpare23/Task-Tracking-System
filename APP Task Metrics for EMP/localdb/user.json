@@ -1,0 +1,62 @@
+{
+    "user": {
+        "id": 27,
+        "created_by": "system",
+        "created_at": "2026-06-13T17:10:31.197308Z",
+        "updated_by": "system",
+        "updated_at": "2026-06-13T17:10:31.197340Z",
+        "profile": "profile/6.png",
+        "fname": "Aditi",
+        "lname": "Shinde",
+        "gender": "M",
+        "mobile": 1234567890,
+        "designation": "Intern",
+        "emp_type": "IN",
+        "email": "aditi@gmail.com",
+        "password": "pbkdf2_sha256$600000$iOXFrfOTnkaHUTqMtbF9g1$Mtd7n17/wO92VP37I2nREd1sOzzz4xkG0iY2mFx9Kpo=",
+        "status": 1
+    },
+    "project": [
+        {
+            "project": {
+                "id": 7,
+                "created_by": "system",
+                "created_at": "2026-06-13T17:15:58.166026Z",
+                "updated_by": "system",
+                "updated_at": "2026-06-13T17:15:58.166063Z",
+                "pname": "sky Care",
+                "ptitle": "sky Care",
+                "phead_id": 23,
+                "pduration": 3,
+                "pdate": "2026-02-06",
+                "status": 1
+            },
+            "task": [
+                {
+                    "id": 9,
+                    "created_by": "system",
+                    "created_at": "2026-06-13T17:21:26.729118Z",
+                    "updated_by": "system",
+                    "updated_at": "2026-06-13T17:21:26.729156Z",
+                    "tproject_id": 7,
+                    "tname": "change desktop UI",
+                    "ttitle": "Change All UI ",
+                    "tassign_id": 27,
+                    "tduration": 5,
+                    "pdate": "2026-05-01",
+                    "status": 1
+                }
+            ]
+        }
+    ],
+    "user_check": true,
+    "autouserfill": {
+        "email": "divyesh@gmail.com",
+        "password": "admin@123"
+    },
+    "login_time": "2026-06-13 22:55:36.270852",
+    "last_login": "2026-06-13 22:54:38.230729",
+    "selected_project": {},
+    "final_mouse_clicks": 23,
+    "final_keyboard_presses": 113
+}

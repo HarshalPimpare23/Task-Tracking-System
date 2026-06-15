@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="select task">
+    <file>exit.png</file>
+    <file>gear.png</file>
+  </qresource>
+  <qresource prefix="cmp ts">
+    <file>toggle.png</file>
+    <file>on-button.png</file>
+    <file>exit.png</file>
+    <file>gear.png</file>
+  </qresource>
+  <qresource prefix="ts cpl">
+    <file>search.png</file>
+    <file>file.png</file>
+    <file>profile.png</file>
+    <file>search.png</file>
+    <file>exit.png</file>
+    <file>gear.png</file>
+  </qresource>
+</RCC>

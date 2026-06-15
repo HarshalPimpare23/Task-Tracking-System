@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="main window">
+    <file>smartphone.png</file>
+  </qresource>
+  <qresource prefix="cpl-task">
+    <file>blue previous.png</file>
+    <file>toggle.png</file>
+    <file>on-button.png</file>
+    <file>gear.png</file>
+    <file>exit.png</file>
+  </qresource>
+  <qresource prefix="select-task">
+    <file>exit.png</file>
+    <file>gear.png</file>
+  </qresource>
+  <qresource prefix="task-cmp">
+    <file>file.png</file>
+    <file>exit.png</file>
+    <file>profile.png</file>
+    <file>gear.png</file>
+    <file>search.png</file>
+  </qresource>
+  <qresource prefix="tcf">
+    <file>checked.png</file>
+    <file>cross.png</file>
+  </qresource>
+</RCC>
